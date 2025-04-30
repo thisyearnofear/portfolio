@@ -1,13 +1,21 @@
-# Superfluid: Content Preview and Menu Animation
+# Papa's Portfolio Website
 
-A proof-of-concept reveal animation experiment on typographic elements as repeating pattern for a website design.
+A showcase of some projects
 
-![Image Title](https://tympanus.net/codrops/wp-content/uploads/2021/07/Superfluid_feat.jpg)
+## Featured Projects
 
-[Article on Codrops](https://tympanus.net/codrops/?p=55661)
+- [Cognivern](https://cognivern.vercel.app/) - AI Governance Platform
+- [Imperfect Form](https://imperfectform.fun/) - Gamified Fitness Platform
+- [Wowowify](https://wowowify.vercel.app/) - Image Overlay & AI Image Generation Tool
+- [Famile.xyz](https://famile.xyz/) - Memory & Relationships Platform
+- [Amacast](https://amacast.netlify.app/) - AMA Curation Platform
 
-[Demo](http://tympanus.net/Development/SuperfluidLayout/)
+## Connect With Me
 
+- Farcaster: [warpcast.com/papa](https://warpcast.com/papa)
+- Lens: [hey.xyz/u/papajams](https://hey.xyz/u/papajams)
+- Medium: [medium.com/@papajams](https://medium.com/@papajams)
+- Paragraph: [paragraph.xyz/@papajams.eth](https://paragraph.xyz/@papajams.eth)
 
 ## Installation
 
@@ -17,13 +25,13 @@ Install dependencies:
 npm install
 ```
 
-Compile the code for development and start a local server:
+Run development server:
 
 ```
 npm start
 ```
 
-Create the build:
+Build for production:
 
 ```
 npm run build
@@ -31,18 +39,11 @@ npm run build
 
 ## Credits
 
+- Original template design by [Codrops](http://www.codrops.com)
 - Images from [Unsplash](https://unsplash.com/)
 
-## Misc
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
-
 ## License
+
 [MIT](LICENSE)
 
-Made with :blue_heart:  by [Codrops](http://www.codrops.com)
-
-
-
-
-
+Made by Papa

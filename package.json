@@ -1,7 +1,7 @@
 {
-  "name": "SuperfluidLayout",
+  "name": "papa-portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Papa's portfolio website showcasing projects and work",
   "default": "dist/index.html",
   "scripts": {
     "start": "parcel src/index.html --open",
@@ -9,17 +9,14 @@
     "build:parcel": "parcel build src/index.html --no-content-hash --no-source-maps --public-url ./",
     "build": "npm run clean && npm run build:parcel"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/codrops/SuperfluidLayout.git"
-  },
-  "keywords": [],
-  "author": "Codrops",
+  "keywords": [
+    "portfolio",
+    "web development",
+    "projects"
+  ],
+  "author": "Papa",
   "license": "MIT",
-  "homepage": "https://tympanus.net/codrops",
-  "bugs": {
-    "url": "https://github.com/codrops/SuperfluidLayout/issues"
-  },
+  "homepage": "https://papa.dev",
   "devDependencies": {
     "parcel": "latest"
   },
